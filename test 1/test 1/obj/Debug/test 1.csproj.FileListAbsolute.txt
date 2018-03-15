@@ -1,0 +1,6 @@
+C:\Git\Test 1\test 1\test 1\bin\Debug\test 1.exe.config
+C:\Git\Test 1\test 1\test 1\bin\Debug\test 1.exe
+C:\Git\Test 1\test 1\test 1\bin\Debug\test 1.pdb
+C:\Git\Test 1\test 1\test 1\obj\Debug\test 1.csprojResolveAssemblyReference.cache
+C:\Git\Test 1\test 1\test 1\obj\Debug\test 1.exe
+C:\Git\Test 1\test 1\test 1\obj\Debug\test 1.pdb
